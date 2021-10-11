@@ -1,9 +1,13 @@
 💥 UYARI : HENUZ TAMAMLANMAMISTIR 💥💥💥
+
 🚫 LUTFEN EDUFLOW'DA PUANLAMAYINIZ 🧡🧡🧡
+
 
 Gereksinimler ve Yapılanlar/Yapılamayanlar
 
+
 ❎ Uygulama [Apollo Client](https://www.apollographql.com/docs/react/) kullanılarak geliştirilmelidir.
+
 ❎ Hava durum bilgilerine erişmek için [Şu API](https://graphql-weather-api.herokuapp.com/) kullanılabilir. Veya dilediğiniz farklı bir GraphQL API'ı da kullanabilirsiniz.
 ❎ Türkiyenin 81 ilinin listelendiği bir dropdown aracılığı ile dilediğimiz şehrin raporunu görüntüleyebilmeliyiz.
 ❎ Sadece içinde bulunduğumuz günün hava raporunu göstermeniz yeterli.
